@@ -1,0 +1,6 @@
+{
+  "name": "Pilodoro",
+  "description": "A minimalist, offline focus timer with configurable focus and break durations, background elapsed time tracking, and completion notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
