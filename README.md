@@ -21,29 +21,3 @@ Pilodoro is a work in progress. Feedback, bug reports, and feature ideas are wel
 
 ## Download
 https://github.com/Kaka-Rome/Pilodoro
-
-----------------------------------------------------------------------------------------------------------------------
-
-# Pilodoro
-Pilodoro adalah timer fokus yang membantumu mengatur waktu kerja dan istirahat dalam sesi yang lebih terarah. Mulai timer, fokus pada satu tugas, lalu beristirahat sejenak saat waktunya tiba.
-
-Tampilannya dirancang sederhana agar kamu bisa tetap memperhatikan kegiatanmu.
-
-## Fitur
-- Atur durasi fokus, istirahat pendek, dan istirahat panjang.
-- Biarkan timer berjalan saat kamu menggunakan aplikasi lain.
-- Lihat riwayat dan statistik fokus.
-- Sesuaikan tampilan dengan tema, warna, font, dan wallpaper.
-- Ekspor dan pulihkan pengaturan serta riwayat sesi melalui file cadangan.
-
-## Dirancang untuk penggunaan lokal
-Fitur utama Pilodoro tidak memerlukan akun. Pengaturan dan riwayat fokus disimpan di perangkat. Kamu juga bisa membuat cadangan manual jika ingin menyimpan atau memindahkan datamu.
-
-## Tentang nama Pilodoro
-Pilodoro menggabungkan bentuk indikator timer yang menyerupai kapsul dengan teknik Pomodoro. Namanya mencerminkan ritme sederhana aplikasi ini: fokus sejenak, lalu beristirahat.
-
-## Status proyek
-Pilodoro masih dalam pengembangan. Masukan, laporan bug, dan ide fitur sangat kami hargai. Silakan buat [issue](../../issues) di repositori ini.
-
-## Unduh
-https://github.com/Kaka-Rome/Pilodoro
